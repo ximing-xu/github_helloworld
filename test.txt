@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 give me some advice for learning computer or program.
+=======
+hello world what's your name?
+>>>>>>> change_01
