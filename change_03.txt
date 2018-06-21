@@ -1,2 +1,3 @@
 change 03 file
 this is my first time to change change_03 file!
+add something to this file to test git diff command!
